@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{Fundel07relex–relationextraction}
+{\sc Fundel, K., Küffner, R., Zimmer, R., and Miyano, S.}
+\newblock Relex–relation extraction using dependency parse trees.
+\newblock {\em Bioinformatics 23\/} (2007).
+
+\bibitem{Nivre05dependencygrammar}
+{\sc Nivre, J.}
+\newblock Dependency grammar and dependency parsing.
+\newblock Tech. rep., Växjö University, 2005.
+
+\bibitem{DBLP:journals/corr/abs-cmp-lg-9508004}
+{\sc Sleator, D.~D., and Temperley, D.}
+\newblock Parsing english with a link grammar.
+\newblock {\em CoRR abs/cmp-lg/9508004\/} (1995).
+
+\end{thebibliography}
